@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    height: 100vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: white;
+}
+
+/* контейнер */
+.container {
+    display: flex;
+    gap: 20px;
+}
+
+/* квадраты */
+.box {
+    width: 150px;
+    height: 150px;
+    background-color: #e6c89c;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    text-align: center;
+    padding: 10px;
+}
+
+/* шрифты */
+.rubik {
+    font-family: 'Rubik Pixels', cursive;
+}
+
+.sedgwick {
+    font-family: 'Sedgwick Ave Display', cursive;
+}
+
+.dancing {
+    font-family: 'Dancing Script', cursive;
+}
+
+.fjalla {
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.indie {
+    font-family: 'Indie Flower', cursive;
+}
