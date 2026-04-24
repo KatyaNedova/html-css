@@ -1,0 +1,13 @@
+body {
+    font-family: Arial;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    margin: 10px 0;
+    font-size: 18px;
+}
